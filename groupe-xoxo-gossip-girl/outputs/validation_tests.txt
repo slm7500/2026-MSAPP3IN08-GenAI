@@ -1,0 +1,25 @@
+test_alias (test_k2trace.TestLicences.test_alias) ... ok
+test_conformes_sans_alerte (test_k2trace.TestRegles.test_conformes_sans_alerte) ... ok
+test_contenu_retouche (test_k2trace.TestRegles.test_contenu_retouche) ... ok
+test_nc_commercial (test_k2trace.TestRegles.test_nc_commercial) ... ok
+test_violations_diagnostiquees (test_k2trace.TestRegles.test_violations_diagnostiquees) ... ok
+test_export_identique (test_k2trace.TestReproductibilite.test_export_identique) ... ok
+test_v1_fragile (test_k2trace.TestRobustesse.test_v1_fragile) ... ok
+test_v2_sans_faux_positif (test_k2trace.TestRobustesse.test_v2_sans_faux_positif) ... ok
+test_attributions_invalides (test_validation.TestValidationStructure.test_attributions_invalides) ... ok
+test_contenu_mauvais_type (test_validation.TestValidationStructure.test_contenu_mauvais_type) ... ok
+test_hash_prompt_vide (test_validation.TestValidationStructure.test_hash_prompt_vide) ... ok
+test_licence_inconnue_reste_r2 (test_validation.TestValidationStructure.test_licence_inconnue_reste_r2) ... ok
+test_manifestes_non_objets (test_validation.TestValidationStructure.test_manifestes_non_objets) ... ok
+test_modele_incomplet (test_validation.TestValidationStructure.test_modele_incomplet) ... ok
+test_parents_invalides (test_validation.TestValidationStructure.test_parents_invalides) ... ok
+test_prompt_sans_hash (test_validation.TestValidationStructure.test_prompt_sans_hash) ... ok
+test_source_incomplete (test_validation.TestValidationStructure.test_source_incomplete) ... ok
+test_transformations_invalides (test_validation.TestValidationStructure.test_transformations_invalides) ... ok
+test_types_models_invalides (test_validation.TestValidationStructure.test_types_models_invalides) ... ok
+test_types_sources_invalides (test_validation.TestValidationStructure.test_types_sources_invalides) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.063s
+
+OK
